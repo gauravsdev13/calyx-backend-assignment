@@ -1,0 +1,4 @@
+2025-07-28 18:58:53,619 [INFO] Submission received from verifier-xyz with raw_value=42.7 \u2192 score=18.85
+2025-07-28 19:47:05,240 [INFO] Batch processed: 1 submissions, avg=0.01, dist={'0�50': 1, '51�75': 0, '76�100': 0}
+2025-07-28 19:49:24,651 [INFO] Batch processed: 1 submissions, avg=0.01, dist={'0�50': 1, '51�75': 0, '76�100': 0}
+2025-07-28 19:49:32,646 [INFO] Batch processed: 1 submissions, avg=100.0, dist={'0�50': 0, '51�75': 0, '76�100': 1}
